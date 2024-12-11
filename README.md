@@ -5,6 +5,6 @@ SUSTAINABLE DEVELOPMENT GOAL 14 (LIFE BELOW THE WATER) PORTFOLIO
 3. Contact - You can send me a message if you have any concerns.
 
 Tool Used: 
-Visual Studio Code
-HTML
-CSS
+-Visual Studio Code
+-HTML
+-CSS
