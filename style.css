@@ -35,10 +35,6 @@ body {
     white-space: nowrap;
 }
 
-.profile-pic{
-    display: none;
-}
-
 li {
     list-style: none; display: inline-block;
 }
@@ -174,6 +170,5 @@ form button:hover{
     padding-top: 0px ;
     width: 50%;
     float: left;
+  }
 }
-}
-
